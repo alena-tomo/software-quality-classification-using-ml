@@ -101,7 +101,7 @@ Three classification algorithms were trained and evaluated to assess their effec
 
 KNN achieved the highest overall accuracy among the evaluated models, although the performance differences were relatively small.
 <p align="center">
-  <img src="images/results/model_accuracy_comparison.png" alt="Model accuracy comparison" width="600">
+  <img src="images/results/model_accuracy_comparison.jpg" alt="Model accuracy comparison" width="600">
 </p>
 
 <p align="center"><em>Figure 1. Accuracy comparison of the evaluated classification models.</em></p>
